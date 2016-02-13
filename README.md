@@ -5,4 +5,6 @@
 
 
 *this text is italic*
-[asghar] (https://techndevs.com)
+
+
+###Powered by [techNDevs] (https://techndevs.com)  ###
